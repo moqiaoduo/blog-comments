@@ -1,4 +1,4 @@
 {
-  "origins": ["https://moqiaoduo.cn", "http://localhost:1313"],
-  "originsRegex": ["http://localhost:[0-9]+"]
+  "origins": ["https://moqiaoduo.cn", "http://localhost:1313", "http://127.0.0.1:1313"],
+  "originsRegex": ["http://localhost:[0-9]+", "http://127\\.0\\.0\\.1:[0-9]+"]
 }
