@@ -1,0 +1,4 @@
+{
+  "origins": ["https://moqiaoduo.cn", "http://localhost:1313"],
+  "originsRegex": ["http://localhost:[0-9]+"]
+}
